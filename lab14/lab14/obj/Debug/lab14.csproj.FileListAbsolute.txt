@@ -1,0 +1,20 @@
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\bin\Debug\lab14.exe.config
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\bin\Debug\lab14.exe
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\bin\Debug\lab14.pdb
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.exe
+D:\stydy\uni\6_семестр\Иммитационное моделирование\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.csproj.SuggestedBindingRedirects.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\lab14\lab14\obj\Debug\lab14.pdb
